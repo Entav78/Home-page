@@ -76,7 +76,7 @@ ul {
 
 ul li {
   background-color: #fff;
-  /*margin: 2rem;*/
+  margin: 2rem auto;
   padding: 2.5rem;
   border-radius: 0.5rem;
   box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.1);
@@ -123,11 +123,14 @@ ul li p {
 footer {
   background-color: #000000;
   color: white;
-  padding: 30px;
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px 0;
   position: relative;
   bottom: 0;
   width: 100%;
+  text-align: center;
 }
 
 footer p a {
