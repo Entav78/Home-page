@@ -17,7 +17,7 @@ This project is a personal portfolio homepage created to showcase my skills as a
 
 ## Live Site
 
-You can view the live version of the homepage [here](#).
+You can view the live version of the homepage [here](https://entav78.github.io/Home-page/).
 
 ## Future Enhancements
 
