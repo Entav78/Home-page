@@ -7,7 +7,7 @@ This project is a personal portfolio homepage created to showcase my skills as a
 - **Responsive Design**: The homepage is fully responsive and adjusts smoothly to different screen sizes and devices.
 - **Project Cards**: Each project card includes a description, title, project screenshot, and links to the live site and GitHub repository.
 - **Clean & Simple Layout**: A minimalistic design ensures that the focus is on the content and projects.
-- **About Me Section**: This section introduces who I am, giving an overview of my skills, interests, and professional background. Will be updated as I learn more.
+- **About Me Section**: This section introduces who I am, giving an overview of my skills, interests, and professional background.
 
 ## Technologies Used
 
